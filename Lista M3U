@@ -1,0 +1,64 @@
+#EXTM3U x-tvg-url="https://github.com/luisms123/tdt/raw/master/guiaxmltv.xml.gz"
+
+############################
+# 👨‍👩‍👧 FAMILIAR / INFANTIL
+############################
+
+#EXTINF:-1 tvg-name="Mr Bean Animado" tvg-id="MrBeanAnimado" tvg-logo="https://i.ibb.co/87Q3Lf3/Logo-Mr-Bean.png" group-title="Familiares",Mr Bean Animado HD
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Adventures Of Sonic" tvg-id="SonicAnimado" tvg-logo="https://i.ibb.co/w78LpdX/Logo-Adventures-Of-Sonic-The-Hedgehog.png" group-title="Familiares",Adventures Of Sonic The Hedgehog HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
+
+#EXTINF:-1 tvg-name="TALTAL TV EDU" tvg-id="TaltalTV" tvg-logo="https://i.ibb.co/dphksTM/Logo-Anime-Taltal-TV-HD.png" group-title="Familiares",TALTAL TV EDU
+https://live20.bozztv.com/akamaissh101/ssh101/daem/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DM Kids TV" tvg-id="DMKidsTV" tvg-logo="https://i.ibb.co/HdcYm3N/Logo-DM-Kids-TV.png" group-title="Familiares",DM Kids TV
+https://video03.logicahost.com.br/dmkidstv/dmkidstv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Toonz Kids" tvg-id="ToonzKids" tvg-logo="https://i.ibb.co/cLbZwwK/Logo-Toonz-Kids.png" group-title="Familiares",Toonz Kids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+
+#EXTINF:-1 tvg-name="Toon Goggles ES" tvg-id="ToonGogglesES" tvg-logo="https://i.ibb.co/PsLfq2R/Logo-Toon-Goggles-en-Spanish.png" group-title="Familiares",Toon Goggles Español
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="CartoonNetwork" tvg-logo="http://imgfz.com/i/ZhE9QqM.png" group-title="Familiares",Cartoon Network HD
+http://104.238.205.28:8989/278524_.m3u8
+
+#EXTINF:-1 tvg-name="Tooncast" tvg-id="Tooncast" tvg-logo="https://i.ibb.co/svNHDzF/Logo-Tooncast.png" group-title="Familiares",Tooncast HD
+http://104.238.205.28:8989/278551_.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon ES" tvg-id="NickelodeonES" tvg-logo="https://i.ibb.co/K76CzKP/Logo-Nickelodeon.png" group-title="Familiares",Nickelodeon España
+http://185.189.225.150:85/nickelodeon/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="DisneyChannel" tvg-logo="https://i.ibb.co/GswGgT8/Logo-Disney-Channel-HD.png" group-title="Familiares",Disney Channel HD
+http://104.238.205.28:8989/278538_.m3u8
+
+############################
+# 🇪🇸 TV ESPANHA
+############################
+
+#EXTINF:-1 tvg-name="La 1" tvg-id="La1ES" tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="SPAIN",La 1 HD
+https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
+
+#EXTINF:-1 tvg-name="La 2" tvg-id="La2ES" tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="SPAIN",La 2 HD
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+
+#EXTINF:-1 tvg-name="Cuatro" tvg-id="CuatroES" tvg-logo="https://i.ibb.co/b3p8jLP/Logo-Cuatro-HD.png" group-title="SPAIN",Cuatro HD
+http://185.189.225.150:85/CuatroHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Telecinco" tvg-id="TelecincoES" tvg-logo="https://i.ibb.co/S7X1cHt/Logo-Telecinco-HD.png" group-title="SPAIN",Telecinco HD
+http://185.189.225.150:85/TeleCincoHD/playlist.m3u8
+
+############################
+# 🎬 FILMES / SÉRIES
+############################
+
+#EXTINF:-1 tvg-name="Sony One Series Comedia" tvg-id="SonyOneComedia" tvg-logo="https://i.ibb.co/FLmD2tT5/Logo-Sony-One-Series-Comedia.png" group-title="SPAIN",Sony One Series Comedia
+https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sony One Exitos" tvg-id="SonyOneExitos" tvg-logo="https://i.ibb.co/PvmppwTV/Logo-Sony-One-Exitos.png" group-title="SPAIN",Sony One Exitos
+https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-832-ES-SONYONEXITOS-LG_ES/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC Drama" tvg-id="BBCDrama" tvg-logo="https://i.ibb.co/1Gy86Gnz/Logo-BBC-Drama.png" group-title="SPAIN",BBC Drama
+https://daiconnect.com/live/hls/tvup/tvfy-bbcdrama/.m3u8
