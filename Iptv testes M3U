@@ -1,0 +1,198 @@
+#EXTM3U
+
+#========================
+# TV ABERTA
+#========================
+#EXTINF:-1 tvg-logo="http://goo.gl/nHgtus" group-title="TV ABERTA", BAND (SP)
+http://ev.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/nHgtus" group-title="TV ABERTA", BAND (PA)
+https://5ad482a77183d.streamlock.net/suportesupersuportegmail.com/suportesupersuportegmail.com.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-1.png" group-title="TV ABERTA", RECORD (MT)
+http://painelvj.com.br/tvaguaboa/tvaguaboa.sdp/chunklist_w216677789.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/QAsaU6" group-title="TV ABERTA", REDETV! (SP)
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w73731525.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/zVeHCJ" group-title="TV ABERTA", TV CULTURA HD - TV CATVE (PR)
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w529672192.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/U5GKOZQ.jpg" group-title="TV ABERTA", TV BRASIL - TVE (RS)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-1.png" group-title="TV ABERTA", TV ACRITICA - RECORD (AM)
+https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
+
+#========================
+# TV ESPORTES
+#========================
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="TV ESPORTES", EI PLUS 1
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_1200.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/ei-plus-esporte-interativo-1-ano-D_NQ_NP_917457-MLB27298342435_052018-F.jpg" group-title="TV ESPORTES", EI PLUS 2
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_1200.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV ESPORTES", GLOBO (SP)
+http://placartv.futeboltv.com:8081/live/6/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aa2d79aa1de837e717638a2f88268e12.png" group-title="TV ESPORTES", TV PANTANAL (MS)
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w817097591.m3u8
+
+#========================
+# TV FILMES
+#========================
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvjapi.png" group-title="TV FILMES", TV JAPI (SP)
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ylkJtfK2F9k/hqdefault.jpg" group-title="TV FILMES", CINE+
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNEL3.m3u8
+
+#========================
+# TV VARIEDADES
+#========================
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/765961733819207681/qh_Sb1eg.jpg" group-title="TV VARIEDADES", TV JOVEM PAN NEWS
+http://evpp.mm.uol.com.br:1935/jovempan/tv-jp.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TV VARIEDADES", SBT
+http://bitly.com:80/Sbt-hd
+
+#========================
+# CANAIS INFANTIS/DESENHOS
+#========================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Cartoon_Network_logo.png" group-title="INFANTIL", CARTOON NETWORK
+http://example.com/cartoon_network.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Discovery_Kids_logo.png" group-title="INFANTIL", DISCOVERY KIDS
+http://example.com/discovery_kids.m3u8
+
+#========================
+# CANAIS NOTÍCIAS
+#========================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/CNN_International_logo.png" group-title="NOTÍCIAS", CNN
+http://example.com/cnn.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/BBC_News_2022.png" group-title="NOTÍCIAS", BBC NEWS
+http://example.com/bbc_news.m3u8
+
+#========================
+# CANAIS RELIGIOSOS
+#========================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TV_Globo_logo.png" group-title="RELIGIOSOS", CANAL DA IGREJA
+http://example.com/canal_igreja.m3u8
+
+#========================
+# RÁDIOS/ÁUDIO
+#========================
+#EXTINF:-1 tvg-logo="" group-title="RÁDIOS", RÁDIO ONLINE 1
+http://example.com/radio1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RÁDIOS", RÁDIO ONLINE 2
+http://example.com/radio2.m3u8
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://www.bevy.be/bevyfiles/portugal.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/helenfernanda/gratis/main/distrotv.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml"
+
+### Brasil: Anime e Tokusatsu ###
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime | Pluto TV Brasil ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime Ação | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime Ação | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Beyblade | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="633dc392e0282400071b0d39" tvg-logo="http://images.pluto.tv/channels/633dc392e0282400071b0d39/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Beyblade | Pluto TV Brasil | link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="656f389c3944b60008e5bdab" tvg-logo="http://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Boruto | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="656f389c3944b60008e5bdab" tvg-logo="http://images.pluto.tv/channels/656f389c3944b60008e5bdab/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Boruto | Pluto TV Brasil - link 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Brasil: cinema",Ficção Científica | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Brasil: cinema",Ficção Científica | Pluto TV Brasil ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f1211b29e6c2c00078ef44e" tvg-logo="https://images.pluto.tv/channels/5f1211b29e6c2c00078ef44e/colorLogoPNG.png" group-title="Brasil: cinema",Suspense | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1211b29e6c2c00078ef44e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f1211b29e6c2c00078ef44e" tvg-logo="https://images.pluto.tv/channels/5f1211b29e6c2c00078ef44e/colorLogoPNG.png" group-title="Brasil: cinema",Suspense | Pluto TV Brasil ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1211b29e6c2c00078ef44e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="CineMonde2" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Brasil: cinema",CineMonde 2 | Soul TV Brasil
+https://video01.soultv.com.br/cinemonde2/cinemonde2/playlist.m3u8
+#EXTINF:-1 tvg-id="DarkFlix2" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema",DarkFlix 2 HD | Soul TV Brasil
+https://video01.soultv.com.br/darkflix2/darkflix2/playlist.m3u8
+
+########### Brasil: esportes ###########
+#EXTINF:-1 tvg-id="ESPNBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/ESPN_logo.svg" group-title="Brasil: esportes",ESPN Brasil
+https://espnbrasil-live.com/espn.m3u8
+#EXTINF:-1 tvg-id="EIPlus" tvg-logo="http://mirror.streamhubtv.me:8080/images/YE9BI7F15D3_iLa" group-title="Brasil: esportes",EI Plus 1
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/58121908685da2dd08de7ec5/publish/media_1200.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+
+########### Brasil: infantil ###########
+#EXTINF:-1 tvg-id="NickBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Nickelodeon_2023_logo.png" group-title="Brasil: infantil",Nick Brasil
+https://nickbrasil-live.com/nick.m3u8
+#EXTINF:-1 tvg-id="CartoonBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Cartoon_Network_Logo_2021.svg" group-title="Brasil: infantil",Cartoon Network Brasil
+https://cartoonbrasil-live.com/cartoon.m3u8
+
+########### Brasil: religiosos ###########
+#EXTINF:-1 tvg-id="TVGospel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/TV_Gospel_Logo.png" group-title="Brasil: religiosos",TV Gospel
+https://tvgospel-live.com/tvgospel.m3u8
+#EXTINF:-1 tvg-id="CanalCristao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Canal_Cristao_logo.png" group-title="Brasil: religiosos",Canal Cristão
+https://canalcristao-live.com/canalcristao.m3u8
+########### Brasil: séries ###########
+#EXTINF:-1 tvg-id="NetflixBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" group-title="Brasil: séries",Netflix Brasil
+https://netflixbr-live.com/series.m3u8
+#EXTINF:-1 tvg-id="AmazonPrimeBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" group-title="Brasil: séries",Amazon Prime Video Brasil
+https://primebr-live.com/series.m3u8
+
+########### Brasil: música ###########
+#EXTINF:-1 tvg-id="MTVBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/MTV_Logo_2010.svg" group-title="Brasil: música",MTV Brasil
+https://mtvbrasil-live.com/mtv.m3u8
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Multishow_Logo_2012.svg" group-title="Brasil: música",Multishow
+https://multishow-live.com/multishow.m3u8
+#EXTINF:-1 tvg-id="VH1Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/VH1_Logo_2015.png" group-title="Brasil: música",VH1 Brasil
+https://vh1brasil-live.com/vh1.m3u8
+
+########### Brasil: notícias ###########
+#EXTINF:-1 tvg-id="GloboNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/GloboNews_logo.svg" group-title="Brasil: notícias",GloboNews
+https://globonews-live.com/globonews.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/BandNews_TV_logo.svg" group-title="Brasil: notícias",Band News
+https://bandnews-live.com/bandnews.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/CNN_Brasil_logo.png" group-title="Brasil: notícias",CNN Brasil
+https://cnnbrasil-live.com/cnn.m3u8
+
+########### Brasil: adultos ###########
+#EXTINF:-1 tvg-id="BrazzersTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Brazzers_Logo.png" group-title="Brasil: adultos",Brazzers TV
+https://brazzers-live.com/brazzers.m3u8
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/PlayboyTV_logo.png" group-title="Brasil: adultos",Playboy TV
+https://playboy-live.com/playboy.m3u8
+########### Brasil: cinema ###########
+#EXTINF:-1 tvg-id="5fa15ad6367e170007cdd098" tvg-logo="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/colorLogoPNG.png" group-title="Brasil: cinema",Ficção Científica | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8
+#EXTINF:-1 tvg-id="5f1211b29e6c2c00078ef44e" tvg-logo="https://images.pluto.tv/channels/5f1211b29e6c2c00078ef44e/colorLogoPNG.png" group-title="Brasil: cinema",Suspense | Pluto TV Brasil
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1211b29e6c2c00078ef44e/master.m3u8
+#EXTINF:-1 tvg-id="CineMonde2" tvg-logo="https://i.imgur.com/dpat1CH.png" group-title="Brasil: cinema",CineMonde 2 | Soul TV Brasil
+https://video01.soultv.com.br/cinemonde2/cinemonde2/playlist.m3u8
+#EXTINF:-1 tvg-id="DarkFlix2" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema",DarkFlix 2 HD | Soul TV Brasil
+https://video01.soultv.com.br/darkflix2/darkflix2/playlist.m3u8
+
+########### Brasil: séries ###########
+#EXTINF:-1 tvg-id="NetflixBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" group-title="Brasil: séries",Netflix Brasil
+https://netflixbr-live.com/series.m3u8
+#EXTINF:-1 tvg-id="AmazonPrimeBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" group-title="Brasil: séries",Amazon Prime Video Brasil
+https://primebr-live.com/series.m3u8
+#EXTINF:-1 tvg-id="DisneyPlusBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="Brasil: séries",Disney Plus Brasil
+https://disneyplusbr-live.com/series.m3u8
+#EXTINF:-1 tvg-id="HBOBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/HBO_logo.svg" group-title="Brasil: séries",HBO Brasil
+https://hbobrasil-live.com/series.m3u8
+
+########### Brasil: música ###########
+#EXTINF:-1 tvg-id="MTVBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/MTV_Logo_2010.svg" group-title="Brasil: música",MTV Brasil
+https://mtvbrasil-live.com/mtv.m3u8
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Multishow_Logo_2012.svg" group-title="Brasil: música",Multishow
+https://multishow-live.com/multishow.m3u8
+#EXTINF:-1 tvg-id="VH1Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/VH1_Logo_2015.png" group-title="Brasil: música",VH1 Brasil
+https://vh1brasil-live.com/vh1.m3u8
+
+########### Brasil: notícias ###########
+#EXTINF:-1 tvg-id="GloboNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/GloboNews_logo.svg" group-title="Brasil: notícias",GloboNews
+https://globonews-live.com/globonews.m3u8
+#EXTINF:-1 tvg-id="BandNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/BandNews_TV_logo.svg" group-title="Brasil: notícias",Band News
+https://bandnews-live.com/bandnews.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/CNN_Brasil_logo.png" group-title="Brasil: notícias",CNN Brasil
+https://cnnbrasil-live.com/cnn.m3u8
+#EXTINF:-1 tvg-id="BBCBrasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/BBC_News_2022.png" group-title="Brasil: notícias",BBC News Brasil
+https://bbcbrasil-live.com/news.m3u8
+
+########### Brasil: adultos ###########
+#EXTINF:-1 tvg-id="BrazzersTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Brazzers_Logo.png" group-title="Brasil: adultos",Brazzers TV
+https://brazzers-live.com/brazzers.m3u8
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/PlayboyTV_logo.png" group-title="Brasil: adultos",Playboy TV
+https://playboy-live.com/playboy.m3u8
+#EXTINF:-1 tvg-id="PrivateHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Private_HD_logo.png" group-title="Brasil: adultos",Private HD
+https://private-live.com/privatehd.m3u8
